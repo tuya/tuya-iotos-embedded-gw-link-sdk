@@ -3,7 +3,7 @@
 [English](README.md) | [中文版](README_cn.md)
 
 ## Introduction
-    Tuya Gateway Networking SDK is a software middleware. It can directly establish communication links with Tuya Cloud and Tuya APP by means of the networking capabilities of the device, and carry out Tuya standard data interaction. Users use this SDK to develop gateway products connected to Tuya Cloud.
+Tuya Gateway Networking SDK is a software middleware. It can directly establish communication links with Tuya Cloud and Tuya APP by means of the networking capabilities of the device, and carry out Tuya standard data interaction. Users use this SDK to develop gateway products connected to Tuya Cloud.
 - Gateway products
     The gateway networking SDK and different protocol controllers are used to make the product into a physical gateway product, and the gateway is connected to various products with different communication protocols, such as: Zigbee, BLE, ZWAVE, etc. For example: common control centers and smart hosts in smart homes. The gateway provides gateway firmware, gateway controller, and firmware upgrade capabilities for sub-terminal devices.
 
