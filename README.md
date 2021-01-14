@@ -17,9 +17,8 @@ Tuya Gateway Networking SDK is a software middleware. It can directly establish 
 
 
 ## Support
-- Tuya Developer Help Center:https://developer.tuya.com/en/
+- Tuya Developer Webiste:https://developer.tuya.com/en/
 - Tuya Smart Help Center: https://support.tuya.com/en/help
 - Technical Support Council: https://service.console.tuya.com
 
-## License
 
