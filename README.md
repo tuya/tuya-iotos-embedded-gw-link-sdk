@@ -1,24 +1,24 @@
-# Tuya IoTOS Embedded Gateway Link SDK
+# Tuya IoTOS Embedded Gateway Networking SDK
 
 [English](README.md) | [中文版](README_cn.md)
 
-## Introduction
-Tuya Gateway Networking SDK is a software middleware. It can directly establish communication links with Tuya Cloud and Tuya APP by means of the networking capabilities of the device, and carry out Tuya standard data interaction. Users use this SDK to develop gateway products connected to Tuya Cloud.
+## Overview
+Tuya Gateway Networking SDK is the middleware that supports communication with Tuya Cloud and Tuya apps by means of the networking capabilities of devices. In this case, Tuya standard data interaction can be implemented. You can use this SDK to develop gateway products that are connected to Tuya Cloud.
 - Gateway products
-    The gateway networking SDK and different protocol controllers are used to make the product into a physical gateway product, and the gateway is connected to various products with different communication protocols, such as: Zigbee, BLE, ZWAVE, etc. For example: common control centers and smart hosts in smart homes. The gateway provides gateway firmware, gateway controller, and firmware upgrade capabilities for sub-terminal devices.
+    The gateway networking SDK and different protocol controllers are used to create a physical gateway product. The gateway is connected to various products with different communication protocols, such as Zigbee, Bluetooth, and Z-Wave. For example, common control centers and smart hosts in smart homes are the gateway products. Each gateway provides the gateway firmware, gateway controller, and firmware upgrade capabilities for sub-terminal devices.
 
-- Gateway and equipment products
-    In addition to the control of gateway devices for sub-devices, it also serves as a device product to define the function points of the device and realize the control of the gateway device.
-## Get Started
+- Gateway and device products
+    This type of product serves as gateways to control sub-devices. The products also serve as device products. You can define the function points of the devices and realize the control of gateways.
+## Get started
 
-[Doc](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/gateway-link-sdk-access-solution/tuya-gateway-link-sdk-development-manual?id=K9ducoah42rl2)
+[Gateway Networking SDK](https://developer.tuya.com/en/docs/iot/smart-product-solution/product-solutiongateway/gateway-link-sdk-access-solution/tuya-gateway-link-sdk-development-manual?id=K9ducoah42rl2)
 
-## Demo Reference
+## Demo references
 
 
 ## Support
-- Tuya Developer Webiste:https://developer.tuya.com/en/
+- Tuya IoT Developer Platform: https://developer.tuya.com/en/
 - Tuya Smart Help Center: https://support.tuya.com/en/help
-- Technical Support Council: https://service.console.tuya.com
+- Technical Support Console: https://service.console.tuya.com
 
 
